@@ -1,1 +1,1 @@
-# klickanalytics-docs
+# Welcome to KlickAnalytics.com Documentation
